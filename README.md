@@ -1,5 +1,5 @@
 # psh
-An experimental shell based on Python.
+An experimental command line shell based on Python.
 
 It is intended to be a shell that lets users use Python for its shell
 scripting.
